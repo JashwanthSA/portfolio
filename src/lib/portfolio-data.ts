@@ -74,7 +74,7 @@ export const projects = [
     description:
       "A Real-Time collaboration application using React and OPAL with dynamic policy management.",
     tech: ["React", "Docker", "Node.js", "OPAL"],
-    image: "/images/opal.jpg",
+    image: "/portfolio/images/opal.jpg",
     link: "https://github.com/JashwanthSA/real-time-collab-webapp-using-OPAL"
   },
   {
@@ -82,7 +82,7 @@ export const projects = [
     description:
       "MCP server for hospital patient data management, featuring advanced analytics, ML-powered predictions with SHAP explanations and data visualization.",
     tech: ["Python", "Scikit-Learn", "FastMCP"],
-    image: "/images/medismart.jpg",
+    image: "/portfolio/images/medismart.jpg",
     link: "https://github.com/JashwanthSA/medismart"
   },
   {
@@ -90,7 +90,7 @@ export const projects = [
     description:
       "A sentiment analysis system for Reddit that analyzes subreddit data to extract sentiment and engagement insights with an automated dashboard.",
     tech: ["Python", "Flask", "NLTK", "Scikit-Learn"],
-    image: "/images/sentiment_reddit.jpg",
+    image: "/portfolio/images/sentiment_reddit.jpg",
     link: "https://github.com/JashwanthSA/Sentiment-Analysis-KYNHACK"
   },
   {
@@ -98,7 +98,7 @@ export const projects = [
     description:
       "A fake news detection system using ML pipelines built on Scikit-Learn, optimized for faster inference and real-time prediction.",
     tech: ["Python", "Flask", "Scikit-Learn"],
-    image: "/images/fake news.webp",
+    image: "/portfolio/images/fake news.webp",
     link: "https://github.com/JashwanthSA/Fake-News-Detection-App-using-ML"
   },
 ];
