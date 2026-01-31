@@ -1,0 +1,292 @@
+{
+  "entries": [
+    {
+      "category": "general",
+      "question": "Who is Jashwanth SA?",
+      "keywords": "name identity bio",
+      "answer": "Jashwanth SA is a Computer Science undergraduate and full-stack developer who enjoys building scalable web apps and data-driven systems.",
+      "details": "Based in India, he blends backend engineering, cloud, and ML to solve real-world problems."
+    },
+    {
+      "category": "general",
+      "question": "Where is he based?",
+      "keywords": "location india based",
+      "answer": "He is based in India.",
+      "details": "He is currently studying and building projects in the region."
+    },
+    {
+      "category": "general",
+      "question": "Hello / Hi / Good morning",
+      "keywords": "hi hello hey good morning good afternoon good evening greetings",
+      "answer": "Hi there! 👋 How can I help you learn about me today?",
+      "details": "You can ask about his projects, skills, experience, or education."
+    },
+    {
+      "category": "education",
+      "question": "What is his education?",
+      "keywords": "education degree college cgpa",
+      "answer": "He is pursuing B.E Computer Science & Engineering at Chennai Institute of Technology (2022-2026) with a CGPA of 8.43.",
+      "details": "He also completed XII (CBSE) at DAV Boys Sr. Sec. School with 91.4%."
+    },
+    {
+      "category": "education",
+      "question": "Where does he study?",
+      "keywords": "college university institute",
+      "answer": "He studies at Chennai Institute of Technology in the CSE program.",
+      "details": "Expected graduation year is 2026."
+    },
+    {
+      "category": "education",
+      "question": "What coursework has he completed?",
+      "keywords": "coursework subjects",
+      "answer": "Core coursework includes Operating Systems, DBMS, Data Structures and Algorithms, OOPS, and Computer Networks.",
+      "details": "These fundamentals support his full-stack and ML work."
+    },
+    {
+      "category": "education",
+      "question": "What was his 12th grade result?",
+      "keywords": "xii cbse percentage",
+      "answer": "He completed XII (CBSE) at DAV Boys Sr. Sec. School with 91.4%.",
+      "details": "Subjects included Math, Physics, Chemistry, English, and Biology."
+    },
+    {
+      "category": "experience",
+      "question": "What experience does he have?",
+      "keywords": "experience internship work role",
+      "answer": "He has interned as an SDE at HID Global and as a Full Stack Developer at Arwin Networks, plus open-source contributions via SSOC.",
+      "details": "Work includes building features, integrating Stripe, and performance optimization."
+    },
+    {
+      "category": "experience",
+      "question": "What is his current internship?",
+      "keywords": "hid global sde intern",
+      "answer": "He is currently an SDE Intern at HID Global (Jan 2025 - Present).",
+      "details": "Working on engineering tasks in a production environment."
+    },
+    {
+      "category": "experience",
+      "question": "What did he do at Arwin Networks?",
+      "keywords": "arwin networks intern",
+      "answer": "He worked on stuwoork.com, helping users browse and hire freelancers with a smoother UI flow.",
+      "details": "He also integrated Stripe subscriptions and optimized CSS with Tailwind."
+    },
+    {
+      "category": "experience",
+      "question": "What was the impact of the Arwin Networks work?",
+      "keywords": "impact metrics stripe tailwind",
+      "answer": "He improved rendering performance by about 30% and reduced CSS size by 25% using Tailwind.",
+      "details": "Stripe subscriptions were integrated for recurring payments."
+    },
+    {
+      "category": "experience",
+      "question": "What is SSOC Season 3?",
+      "keywords": "ssoc open source quira quine",
+      "answer": "SSOC Season 3 is an open-source program where he contributed to projects and participated in creator quests on Quira.",
+      "details": "It strengthened his collaboration and OSS workflows."
+    },
+    {
+      "category": "projects",
+      "question": "What projects has he built?",
+      "keywords": "projects portfolio apps",
+      "answer": "Key projects include a real-time collaboration app with OPAL, sentiment analysis for Reddit, a fake news detector, and MediSmart.",
+      "details": "Focus areas include realtime collaboration, NLP analytics, and healthcare data tooling."
+    },
+    {
+      "category": "projects",
+      "question": "Tell me about the OPAL project",
+      "keywords": "opal real-time collaboration",
+      "answer": "It is a real-time collaboration app built with React and OPAL for dynamic policy management.",
+      "details": "Designed for live collaboration with a focus on policy enforcement."
+    },
+    {
+      "category": "projects",
+      "question": "What tech stack does the OPAL project use?",
+      "keywords": "opal tech stack react docker node",
+      "answer": "The OPAL collaboration app uses React.js, Docker, and Node.js.",
+      "details": "It leverages OPAL for dynamic policy enforcement."
+    },
+    {
+      "category": "projects",
+      "question": "How many users can the OPAL app support?",
+      "keywords": "opal concurrent users",
+      "answer": "It was designed for 100+ concurrent users.",
+      "details": "The goal was stable collaboration at scale."
+    },
+    {
+      "category": "projects",
+      "question": "Tell me about the Reddit sentiment analysis project",
+      "keywords": "sentiment reddit nlp",
+      "answer": "It analyzes subreddit data to extract sentiment and engagement insights with an automated dashboard.",
+      "details": "Built with Python, Flask, NLTK, and Scikit-Learn."
+    },
+    {
+      "category": "projects",
+      "question": "What was the accuracy in the Reddit sentiment project?",
+      "keywords": "accuracy sentiment analysis",
+      "answer": "The model achieved about 93% accuracy across multiple sentiment categories.",
+      "details": "Prediction time was reduced to around 250ms."
+    },
+    {
+      "category": "projects",
+      "question": "Tell me about the fake news detection app",
+      "keywords": "fake news detection",
+      "answer": "It classifies news articles as real or fake using ML pipelines built on Scikit-Learn.",
+      "details": "Optimized for faster inference and real-time prediction."
+    },
+    {
+      "category": "projects",
+      "question": "How large was the fake news dataset?",
+      "keywords": "fake news dataset size",
+      "answer": "The model was trained and evaluated on more than 50,000 news articles.",
+      "details": "Achieved around 92% classification accuracy."
+    },
+    {
+      "category": "projects",
+      "question": "What is MediSmart?",
+      "keywords": "medismart hospital mcp analytics",
+      "answer": "MediSmart is an MCP server for hospital patient data with advanced analytics and ML-powered predictions.",
+      "details": "It includes SHAP explanations and data visualizations."
+    },
+    {
+      "category": "projects",
+      "question": "What does MediSmart predict?",
+      "keywords": "medismart prediction readmission",
+      "answer": "MediSmart includes ML-based predictions to estimate patient readmission risk.",
+      "details": "It also provides analytics and data quality checks."
+    },
+    {
+      "category": "projects",
+      "question": "How many records were used in MediSmart?",
+      "keywords": "medismart dataset records",
+      "answer": "The model was trained on 989 patient records with 5 features.",
+      "details": "It can auto-train if a model artifact is missing."
+    },
+    {
+      "category": "skills",
+      "question": "What are his skills?",
+      "keywords": "skills technologies stack",
+      "answer": "He works with React, Next.js, Node.js, Django, MySQL, MongoDB, and ML libraries like PyTorch and Scikit-Learn.",
+      "details": "He is also comfortable with Azure, Docker, and common UI tools."
+    },
+    {
+      "category": "skills",
+      "question": "Is he a full-stack developer?",
+      "keywords": "full stack frontend backend",
+      "answer": "Yes. He works across frontend and backend, with database and cloud experience.",
+      "details": "He enjoys building end-to-end systems."
+    },
+    {
+      "category": "skills",
+      "question": "What frontend technologies does he use?",
+      "keywords": "frontend react next tailwind",
+      "answer": "He uses React, Next.js, Angular, and Tailwind CSS for modern UIs.",
+      "details": "Comfortable with responsive and component-based design."
+    },
+    {
+      "category": "skills",
+      "question": "What backend technologies does he use?",
+      "keywords": "backend node django express",
+      "answer": "He builds backend services with Node.js, Express, and Django.",
+      "details": "Focus is on scalable APIs and clean architecture."
+    },
+    {
+      "category": "skills",
+      "question": "What databases does he work with?",
+      "keywords": "database mysql postgres mongodb",
+      "answer": "He has experience with MySQL, PostgreSQL, MongoDB, and Neo4j.",
+      "details": "Also familiar with Firebase."
+    },
+    {
+      "category": "skills",
+      "question": "What ML or AI tools does he use?",
+      "keywords": "ml ai pytorch tensorflow scikit",
+      "answer": "He uses PyTorch, TensorFlow, and Scikit-Learn for ML work.",
+      "details": "He also explores Gen-AI tools like LangGraph and Semantic Kernel."
+    },
+    {
+      "category": "skills",
+      "question": "What cloud platform does he use?",
+      "keywords": "cloud azure",
+      "answer": "Azure is his primary cloud platform.",
+      "details": "He has completed the AZ-900 course."
+    },
+    {
+      "category": "skills",
+      "question": "What developer tools does he use?",
+      "keywords": "tools git docker postman",
+      "answer": "He uses Git, Docker, Postman, and related dev tools in daily workflows.",
+      "details": "Also deploys and experiments with Netlify."
+    },
+    {
+      "category": "courses",
+      "question": "What certifications or courses has he completed?",
+      "keywords": "courses certifications",
+      "answer": "Courses include AZ-900, CCNA 1/2/3, Intro to LLM, Business Analyst (Celonis), and Google ML crash course.",
+      "details": "He also completed a full web development bootcamp on Udemy."
+    },
+    {
+      "category": "courses",
+      "question": "Has he studied networking?",
+      "keywords": "ccna networking",
+      "answer": "Yes, he completed CCNA 1, 2, and 3 through Cisco.",
+      "details": "Networking fundamentals support his backend work."
+    },
+    {
+      "category": "courses",
+      "question": "Has he studied cloud fundamentals?",
+      "keywords": "az-900 azure",
+      "answer": "Yes, he completed Microsoft AZ-900 for cloud fundamentals.",
+      "details": "He uses Azure in projects and learning."
+    },
+    {
+      "category": "achievements",
+      "question": "What are his coding platform achievements?",
+      "keywords": "leetcode codechef codeforces",
+      "answer": "LeetCode: Knight badge (max 1886, top 5.76%). CodeChef: 3-star, 1726. Codeforces: max 1020.",
+      "details": "He enjoys competitive programming alongside project work."
+    },
+    {
+      "category": "achievements",
+      "question": "What hackathons has he reached finals in?",
+      "keywords": "hackathon finals vit technica",
+      "answer": "He was selected for finals at Technica 2024 and GDSC Hack for SDG.",
+      "details": "Also selected for Round 2 at the Amdocs GenAI Graduate Hackathon."
+    },
+    {
+      "category": "achievements",
+      "question": "Any leadership or extracurriculars?",
+      "keywords": "ncc cadet extracurricular",
+      "answer": "He holds an NCC Cadet Certification and has participated in tech events and hackathons.",
+      "details": "He also volunteered to organize a Hacker Symposium event."
+    },
+    {
+      "category": "volunteering",
+      "question": "Has he volunteered anywhere?",
+      "keywords": "volunteering event organizer",
+      "answer": "Yes, he organized a Hacker Symposium event, coordinating participants and activities.",
+      "details": "Demonstrated leadership and event management."
+    },
+    {
+      "category": "contact",
+      "question": "How can I contact him?",
+      "keywords": "contact email linkedin github",
+      "answer": "You can reach him at jash.chn@gmail.com or via LinkedIn and GitHub.",
+      "details": "Links are available in the sidebar."
+    },
+    {
+      "category": "contact",
+      "question": "Where can I find his GitHub?",
+      "keywords": "github profile",
+      "answer": "You can find him on GitHub at github.com/JashwanthSA.",
+      "details": "The link is in the sidebar."
+    },
+    {
+      "category": "contact",
+      "question": "Where can I find his LinkedIn?",
+      "keywords": "linkedin profile",
+      "answer": "His LinkedIn is linkedin.com/in/jashwanth-sa-71064a253/.",
+      "details": "The link is in the sidebar."
+    }
+  ]
+}
+
