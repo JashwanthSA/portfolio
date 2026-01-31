@@ -19,8 +19,7 @@ export function ChatPanel() {
   useEffect(() => {
     const init = async () => {
       const instance = new ChatbotEngine();
-      const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
-      await instance.loadKnowledgeBase(`${basePath}/knowledge_base.json`);
+      await instance.loadKnowledgeBase("./knowledge_base.json");
       setEngine(instance);
     };
     init();
